@@ -93,3 +93,21 @@ http://110.177.149.32:4022/udp/239.1.1.45:8045
 http://110.177.149.32:4022/udp/239.1.1.46:8046
 #EXTINF:-1 tvg-name="山东卫视高清" group-title="卫视",山东卫视高清
 http://110.177.149.32:4022/udp/239.1.1.47:8047
+#EXTINF:-1 tvg-name="CCTV-1备用源" group-title="央视备用",CCTV-1备用源
+http://221.197.236.121:17514/udp/225.1.1.120:5002
+#EXTINF:-1 tvg-name="CCTV-2备用源" group-title="央视备用",CCTV-2备用源
+http://221.197.236.121:17514/udp/225.1.1.133:5002
+#EXTINF:-1 tvg-name="CCTV-3备用源" group-title="央视备用",CCTV-3备用源
+http://221.197.236.121:17514/udp/225.1.1.158:5002
+#EXTINF:-1 tvg-name="CCTV-4备用源" group-title="央视备用",CCTV-4备用源
+http://221.197.236.121:17514/udp/225.1.1.150:5002
+#EXTINF:-1 tvg-name="CCTV-5备用源" group-title="央视备用",CCTV-5备用源
+http://221.197.236.121:17514/udp/225.1.1.160:5002
+#EXTINF:-1 tvg-name="CCTV-5+备用源" group-title="央视备用",CCTV-5+备用源
+http://221.197.236.121:17514/udp/225.1.1.121:5002
+#EXTINF:-1 tvg-name="CCTV-6备用源" group-title="央视备用",CCTV-6备用源
+http://221.197.236.121:17514/udp/225.1.1.195:5002
+#EXTINF:-1 tvg-name="CCTV-7备用源" group-title="央视备用",CCTV-7备用源
+http://221.197.236.121:17514/udp/225.1.1.138:5002
+#EXTINF:-1 tvg-name="CCTV-8备用源" group-title="央视备用",CCTV-8备用源
+http://221.197.236.121:17514/udp/225.1.1.196:5002
