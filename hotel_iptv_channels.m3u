@@ -102,9 +102,9 @@ http://221.197.236.121:17514/udp/225.1.1.158:5002
 #EXTINF:-1 tvg-name="CCTV-4备用源" group-title="央视备用",CCTV-4备用源
 http://221.197.236.121:17514/udp/225.1.1.150:5002
 #EXTINF:-1 tvg-name="CCTV-5备用源" group-title="央视备用",CCTV-5备用源
-http://221.197.236.121:17514/udp/225.1.1.160:5002
+http://218.0.207.23:9050/udp/233.50.201.197:5140
 #EXTINF:-1 tvg-name="CCTV-5+备用源" group-title="央视备用",CCTV-5+备用源
-http://221.197.236.121:17514/udp/225.1.1.121:5002
+http://218.0.207.23:9050/udp/233.50.201.220:5140
 #EXTINF:-1 tvg-name="CCTV-6备用源" group-title="央视备用",CCTV-6备用源
 http://221.197.236.121:17514/udp/225.1.1.195:5002
 #EXTINF:-1 tvg-name="CCTV-7备用源" group-title="央视备用",CCTV-7备用源
