@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1高清" group-title="央视",CCTV1高清
-http://113.241.163.6:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.230.241.248:8088/608807420
 #EXTINF:-1 tvg-name="CCTV2高清" group-title="央视",CCTV2高清
 http://175.0.69.230:8888/rtp/239.76.253.152:9000
 #EXTINF:-1 tvg-name="CCTV3高清" group-title="央视",CCTV3高清
