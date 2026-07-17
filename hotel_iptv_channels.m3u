@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1高清" group-title="央视",CCTV1高清
-http://211.158.155.53:8004/udp/225.0.4.74:7980
+http://175.0.69.230:8888/rtp/239.76.253.151:9000
 #EXTINF:-1 tvg-name="CCTV2高清" group-title="央视",CCTV2高清
-http://211.158.155.53:8004/udp/225.0.4.132:7980
+http://175.0.69.230:8888/rtp/239.76.253.152:9000
 #EXTINF:-1 tvg-name="CCTV3高清" group-title="央视",CCTV3高清
 http://211.158.155.53:8004/udp/225.0.4.142:7980
 #EXTINF:-1 tvg-name="CCTV4高清" group-title="央视",CCTV4高清
 http://211.158.155.53:8004/udp/225.0.4.176:7980
 #EXTINF:-1 tvg-name="CCTV5高清" group-title="央视",CCTV5高清
-http://211.158.155.53:8004/udp/225.0.4.143:7980
+http://175.0.69.230:8888/rtp/239.76.253.155:9000
 #EXTINF:-1 tvg-name="CCTV5+高清" group-title="央视",CCTV5+高清
 http://211.158.155.53:8004/udp/225.0.4.73:7980
 #EXTINF:-1 tvg-name="CCTV6高清" group-title="央视",CCTV6高清
